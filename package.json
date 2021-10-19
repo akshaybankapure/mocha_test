@@ -1,0 +1,19 @@
+{
+  "name": "new_fol",
+  "version": "1.0.0",
+  "description": "simple app for testing",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": "Akshay Bankapure",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "mocha": "^9.1.3"
+  }
+}
